@@ -1,0 +1,38 @@
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\Proyecto_AdministracionOrgDatos.exe.config
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\Proyecto_AdministracionOrgDatos.exe
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\Proyecto_AdministracionOrgDatos.pdb
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\itextsharp.dll
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\itextsharp.xml
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.FormLogin_ESA.resources
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.frmRegistrarBecarios_ESA.resources
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.frmMenu_ESA.resources
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.Mostrar_datos.resources
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.Properties.Resources.resources
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.csproj.CopyComplete
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.exe
+C:\Users\DELL\Desktop\TODO LO DE LA ESCUELA\Trabajos PDF\Semestre 4\Administracion de datos\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.pdb
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\Proyecto_AdministracionOrgDatos.exe.config
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\Proyecto_AdministracionOrgDatos.exe
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\Proyecto_AdministracionOrgDatos.pdb
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\itextsharp.dll
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\bin\Debug\itextsharp.xml
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.FormLogin_ESA.resources
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.frmRegistrarBecarios_ESA.resources
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.frmMenu_ESA.resources
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.Mostrar_datos.resources
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.Properties.Resources.resources
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.csproj.CopyComplete
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.exe
+C:\Users\pc\Documents\Escuela\Universidad\4to\Administracion de datos\Pruebas\BK2 - Bonito2.5\BK2\Proyecto_AdministracionOrgDatos\obj\Debug\Proyecto_AdministracionOrgDatos.pdb

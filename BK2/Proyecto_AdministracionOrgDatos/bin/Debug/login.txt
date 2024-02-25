@@ -1,0 +1,3 @@
+manolo,12345
+jose,jacobo
+felipe,contraseña
